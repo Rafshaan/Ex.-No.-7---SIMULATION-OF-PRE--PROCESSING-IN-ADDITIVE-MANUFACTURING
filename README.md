@@ -49,8 +49,8 @@
 ![image](https://github.com/user-attachments/assets/6b0ddcc3-3ed4-4865-8057-4432bfa07e9d)
 
 
-### Name:I S Ishita
-### Register Number:24003847
+### Name:A.RAFSHAAN AHMED
+### Register Number:24005401
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
